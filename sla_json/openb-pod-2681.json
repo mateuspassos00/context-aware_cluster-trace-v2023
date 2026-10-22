@@ -1,0 +1,17 @@
+{
+  "pod_name": "openb-pod-2681",
+  "semantic_profile": {
+    "priority": "high_availability"
+  },
+  "hard_constraints": {
+    "gpu_acceleration": false,
+    "data_locality": false
+  },
+  "trace_meta": {
+    "cpu_milli": 8000,
+    "memory_mib": 16384,
+    "num_gpu": 0,
+    "gpu_milli": 0,
+    "source_qos": "Guaranteed"
+  }
+}

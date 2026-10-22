@@ -1,0 +1,17 @@
+{
+  "pod_name": "openb-pod-6453",
+  "semantic_profile": {
+    "priority": "high_performance"
+  },
+  "hard_constraints": {
+    "gpu_acceleration": true,
+    "data_locality": false
+  },
+  "trace_meta": {
+    "cpu_milli": 88000,
+    "memory_mib": 327680,
+    "num_gpu": 8,
+    "gpu_milli": 1000,
+    "source_qos": "Burstable"
+  }
+}

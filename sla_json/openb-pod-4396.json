@@ -1,0 +1,17 @@
+{
+  "pod_name": "openb-pod-4396",
+  "semantic_profile": {
+    "priority": "low_cost"
+  },
+  "hard_constraints": {
+    "gpu_acceleration": false,
+    "data_locality": false
+  },
+  "trace_meta": {
+    "cpu_milli": 32000,
+    "memory_mib": 49152,
+    "num_gpu": 0,
+    "gpu_milli": 0,
+    "source_qos": "BE"
+  }
+}

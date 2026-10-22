@@ -1,0 +1,17 @@
+{
+  "pod_name": "openb-pod-3635",
+  "semantic_profile": {
+    "priority": "low_cost"
+  },
+  "hard_constraints": {
+    "gpu_acceleration": true,
+    "data_locality": true
+  },
+  "trace_meta": {
+    "cpu_milli": 6000,
+    "memory_mib": 23552,
+    "num_gpu": 1,
+    "gpu_milli": 460,
+    "source_qos": "LS"
+  }
+}

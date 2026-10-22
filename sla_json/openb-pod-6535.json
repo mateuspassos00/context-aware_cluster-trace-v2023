@@ -1,0 +1,17 @@
+{
+  "pod_name": "openb-pod-6535",
+  "semantic_profile": {
+    "priority": "high_performance"
+  },
+  "hard_constraints": {
+    "gpu_acceleration": true,
+    "data_locality": true
+  },
+  "trace_meta": {
+    "cpu_milli": 18708,
+    "memory_mib": 64512,
+    "num_gpu": 1,
+    "gpu_milli": 1000,
+    "source_qos": "LS"
+  }
+}

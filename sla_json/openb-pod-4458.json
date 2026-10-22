@@ -1,0 +1,17 @@
+{
+  "pod_name": "openb-pod-4458",
+  "semantic_profile": {
+    "priority": "high_performance"
+  },
+  "hard_constraints": {
+    "gpu_acceleration": true,
+    "data_locality": false
+  },
+  "trace_meta": {
+    "cpu_milli": 64000,
+    "memory_mib": 262144,
+    "num_gpu": 8,
+    "gpu_milli": 1000,
+    "source_qos": "LS"
+  }
+}

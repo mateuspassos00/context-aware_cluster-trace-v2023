@@ -1,0 +1,17 @@
+{
+  "pod_name": "openb-pod-1278",
+  "semantic_profile": {
+    "priority": "low_cost"
+  },
+  "hard_constraints": {
+    "gpu_acceleration": true,
+    "data_locality": false
+  },
+  "trace_meta": {
+    "cpu_milli": 6000,
+    "memory_mib": 22888,
+    "num_gpu": 1,
+    "gpu_milli": 110,
+    "source_qos": "BE"
+  }
+}

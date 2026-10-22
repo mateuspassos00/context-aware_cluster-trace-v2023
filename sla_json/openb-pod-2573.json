@@ -1,0 +1,17 @@
+{
+  "pod_name": "openb-pod-2573",
+  "semantic_profile": {
+    "priority": "low_cost"
+  },
+  "hard_constraints": {
+    "gpu_acceleration": true,
+    "data_locality": false
+  },
+  "trace_meta": {
+    "cpu_milli": 6000,
+    "memory_mib": 6144,
+    "num_gpu": 1,
+    "gpu_milli": 460,
+    "source_qos": "LS"
+  }
+}

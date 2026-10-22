@@ -1,0 +1,17 @@
+{
+  "pod_name": "openb-pod-5010",
+  "semantic_profile": {
+    "priority": "high_performance"
+  },
+  "hard_constraints": {
+    "gpu_acceleration": true,
+    "data_locality": false
+  },
+  "trace_meta": {
+    "cpu_milli": 11300,
+    "memory_mib": 49152,
+    "num_gpu": 1,
+    "gpu_milli": 1000,
+    "source_qos": "LS"
+  }
+}

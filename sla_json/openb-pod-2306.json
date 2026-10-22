@@ -1,0 +1,17 @@
+{
+  "pod_name": "openb-pod-2306",
+  "semantic_profile": {
+    "priority": "real_time"
+  },
+  "hard_constraints": {
+    "gpu_acceleration": true,
+    "data_locality": true
+  },
+  "trace_meta": {
+    "cpu_milli": 12000,
+    "memory_mib": 18432,
+    "num_gpu": 1,
+    "gpu_milli": 460,
+    "source_qos": "LS"
+  }
+}

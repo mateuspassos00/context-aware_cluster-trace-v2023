@@ -1,0 +1,17 @@
+{
+  "pod_name": "openb-pod-1805",
+  "semantic_profile": {
+    "priority": "low_cost"
+  },
+  "hard_constraints": {
+    "gpu_acceleration": true,
+    "data_locality": false
+  },
+  "trace_meta": {
+    "cpu_milli": 3152,
+    "memory_mib": 5600,
+    "num_gpu": 1,
+    "gpu_milli": 810,
+    "source_qos": "BE"
+  }
+}
